@@ -9,7 +9,8 @@ use GuzzleHttp\Command\Guzzle\GuzzleClient;
 class Client
 {
 	
-	/**
+    
+    /**
      * Guzzle service description
      *
      * @var \Shopify\Description
